@@ -1,7 +1,7 @@
 # Git Assignment - HeroVired
 
 ## Introduction
-Welcome to the **Git Assignment** repository for HeroVired! This project is designed to help you master Git and GitHub workflows while building a Python-based application. The repository includes tasks related to basic arithmetic operations, geometric calculations, and handling large files using Git LFS. It also demonstrates branching strategies, bug fixes, and collaborative development practices.
+This project is designed to help you master Git and GitHub workflows while building a Python-based application. The repository includes tasks related to basic arithmetic operations, geometric calculations, and handling large files using Git LFS. It also demonstrates branching strategies, bug fixes, and collaborative development practices.
 
 ---
 
